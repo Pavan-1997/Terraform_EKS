@@ -72,4 +72,5 @@ Click on the Cluster created -> Under Access -> Click on Create access entry -> 
 ## ACCESS VIA KUBECTL
 
 ```
-
+aws eks update-kubeconfig --name <cluster-name> --region <region-name>
+```
