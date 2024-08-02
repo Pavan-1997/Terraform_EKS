@@ -1,4 +1,4 @@
-# Terraform-EKS
+# Terraform_EKS
 
 ## Install AWS CLI
 ```
